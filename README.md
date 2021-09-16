@@ -12,3 +12,6 @@ provide simple demo
 Can be deployed to any web server 
 
 ## How To Contribute
+
+## Copyright 
+copyright
