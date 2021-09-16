@@ -12,6 +12,6 @@ provide simple demo
 Can be deployed to any web server 
 
 ## How To Contribute
-
+Please fork this repo and then issue pull requestes for review
 ## Copyright 
 copyright
