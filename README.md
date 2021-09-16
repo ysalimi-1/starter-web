@@ -6,7 +6,9 @@ more description
 ## Purpose
 
 Sample website with plenty of files for demos
+provide simple demo
 
 ## Deployment 
+Can be deployed to any web server 
 
 ## How To Contribute
